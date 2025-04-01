@@ -5,7 +5,7 @@ This is part of course IS601.
 
 ## Requirements
 1. ✅ Put the screenshot of your image in your Docker account here.<br>
-Below image is from Docker Desktop images tab.
+Below image is from Docker Desktop images tab. As seen from the image, I have `dhjariwala/hw8`, which is the image of this code base.
 ![Image in Docker Desktop](screenshots/docker_image.png)
 
 Below image is the Docker Hub Repository that was created.
