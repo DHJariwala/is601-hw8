@@ -4,7 +4,7 @@ This repository contains basic structure for uploading image to docker and using
 This is part of course IS601.
 
 ## Requirements
-1. ✅ Put the screenshot of your image in your Docker account here.
+1. ✅ Put the screenshot of your image in your Docker account here.<br>
 Below image is from Docker Desktop images tab.
 ![Image in Docker Desktop](screenshots/docker_image.png)
 
